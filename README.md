@@ -1,4 +1,4 @@
-# Hello, I'm Luke 👋
+# Hello, I'm Lucas 👋
 
 3rd year Computer Engineering student, learning web and app development.
 
