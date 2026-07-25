@@ -1,8 +1,6 @@
-# Hi there, I'm Luke 👋
+# Hello, I'm Luke 👋
 
-🎓 Computer Engineering student, building practical software that solves real operational problems.
-
-I like taking messy, manual processes — logbooks, spreadsheets, whiteboards — and turning them into systems that actually work. Currently sharpening my skills in desktop and web app development, databases, and system design.
+3rd year Computer Engineering student, learning web and app development.
 
 ---
 
